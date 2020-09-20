@@ -1,0 +1,154 @@
+awk: fatal: cannot open file `/proc/fb' for reading (No such file or directory)
+                          ./+o+-       johnm@LAPTOP-RUOTQ2M1
+                  yyyyy- -yyyyyy+      OS: Ubuntu 18.04 bionic [Ubuntu on Windows 10]
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 4.4.0-18362-Microsoft
+           .++ .:/++++++/-.+sss/`      Uptime: 30m
+         .:++o:  /++++++++/:--:/-      Packages: 997
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash 4.4.20
+       .:+o:+o/.          `+sssoo+/    CPU: Intel Celeron N4000 @ 2x 1.101GHz
+  .++/+:+oo+o:`             /sssooo.   GPU: 
+ /+++//+:`oo+o               /::--:.   RAM: 3195MiB / 3927MiB
+ \+/+o+++`o++o               ++////.  
+  .++.o+++oo+:`             /dddhhh.  
+       .+.o+oo:.          `oddhhhh+   
+        \+.++o+o``-````.:ohdhhhhh+    
+         `:o+++ `ohhhhhhhhyo++os:     
+           .o:`.syhhhhhhh/.oo++o`     
+               /osyyyyyyo++ooo+++/    
+                   ````` +oo+++o\:    
+                          `oo++.      
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ npm install
+npm WARN deprecated fsevents@2.0.6: Please update: there are crash fixes
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+npm WARN deprecated @hapi/joi@15.1.1: joi is leaving the @hapi organization and moving back to 'joi' (https://github.com/sideway/joi/issues/2411)
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated @hapi/address@2.1.4: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/topo@3.1.6: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/hoek@8.5.1: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated left-pad@1.3.0: use String.prototype.padStart()
+npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+
+> core-js@2.6.11 postinstall /home/johnm/research/monsters-rolodex-complete/node_modules/babel-runtime/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon: 
+> https://opencollective.com/core-js 
+> https://www.patreon.com/zloirock 
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+
+> core-js@3.6.5 postinstall /home/johnm/research/monsters-rolodex-complete/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.0.6 (node_modules/react-scripts/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.0.6: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules/jest-haste-map/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN notsup Unsupported engine for watchpack-chokidar2@2.0.0: wanted: {"node":"<8.10.0"} (current: {"node":"12.18.2","npm":"6.14.5"})
+npm WARN notsup Not compatible with your version of node/npm: watchpack-chokidar2@2.0.0
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.1.2 (node_modules/watchpack/node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @typescript-eslint/eslint-plugin@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/typescript-estree@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+added 1510 packages from 697 contributors and audited 1514 packages in 1030.566s
+
+38 packages are looking for funding
+  run `npm fund` for details
+
+found 5 vulnerabilities (1 low, 2 moderate, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ 
+
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ npm audit
+                                                                                
+                       === npm audit security report ===                        
+                                                                                
+# Run  npm install --save-dev react-scripts@3.4.3  to resolve 3 vulnerabilities
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ Moderate      │ Cross-Site Scripting                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ react-scripts [dev]                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ react-scripts > terser-webpack-plugin > serialize-javascript │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/1426                            │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ Low           │ Prototype Pollution                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ yargs-parser                                                 │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ react-scripts [dev]                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ react-scripts > webpack-dev-server > yargs > yargs-parser    │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/1500                            │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ High          │ Remote Code Execution                                        │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ react-scripts [dev]                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ react-scripts > terser-webpack-plugin > serialize-javascript │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/1548                            │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+# Run  npm update terser-webpack-plugin --depth 3  to resolve 2 vulnerabilities
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ Moderate      │ Cross-Site Scripting                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ react-scripts [dev]                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ react-scripts > webpack > terser-webpack-plugin >            │
+│               │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/1426                            │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ High          │ Remote Code Execution                                        │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ react-scripts [dev]                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ react-scripts > webpack > terser-webpack-plugin >            │
+│               │ serialize-javascript                                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/1548                            │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+found 5 vulnerabilities (1 low, 2 moderate, 2 high) in 1514 scanned packages
+  run `npm audit fix` to fix 5 of them.
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ git config --global user.email "mars.john2018@gmail.com"
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ git config --global user.name "johnm"
+johnm@LAPTOP-RUOTQ2M1:~/research/monsters-rolodex-complete$ 
